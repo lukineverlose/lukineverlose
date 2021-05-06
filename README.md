@@ -1,5 +1,5 @@
 <h2 align="left">slm agalarım <img src="https://cdn.discordapp.com/emojis/839273120811581450.gif?v=1" width="30px"> | luki?#0049 </h2>
-   <p align="left">Ben <a href="https://Luki.com/">Bizetré!</a>
+   <p align="left">Ben <a href="https://Luki.com/">Luki!</a>
 <p align="left">
    <a href="https://discord.com/users/544541976851382292" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/z7e25ciu286syz1t7lpujgvbv?si=0508ec23299f436e" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
